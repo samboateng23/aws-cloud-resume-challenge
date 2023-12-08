@@ -18,5 +18,5 @@ fundamental skills which are necessary in pursuing a career within the Cloud ind
 * Github Actions
 * Terraform
 
-# [Live Demo](https://samboateng.com) 
+# [Live Demo](https://www.samboateng.com) 
  
